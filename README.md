@@ -6,21 +6,21 @@ I’m Kwaku, a full-stack engineer who is a creative developer and self-proclaim
 Want to know more about me? [Check out my portfolio.](https://github.com/)
 
 ## Skills and Experience
-* UI/UX Designing
+* UI/UX Designing 💻📱
   - `Figma`
   - `Adobe XD`
-* Web Development
+* Web Development 💻📱
   - `💻 HTML, CSS, JS`
   - `⚛ React`
   - `Flutter`
-* Mobile Development
+* Mobile Development 📱
   - `📱 React Native`
   - `Flutter`
-* Backend Development
+* Backend API Development
   - `Node JS`
   - `Graphql`
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
 
-- 📫 Reach me out on my email: *michealessuman08@gmail.com
+- 📫 Reach me out on my email: michealessuman08@gmail.com
