@@ -9,16 +9,16 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
 * UI/UX Designing 💻📱
   - `Figma`
   - `Adobe XD`
-  ---
+  
 * Web Development 💻📱
   - `💻 HTML, CSS, JS`
   - `⚛ React`
   - `Flutter`
-  ---
+  
 * Mobile Development 📱
   - `📱 React Native`
   - `Flutter`
-  ---
+  
 * Backend API Development
   - `Node JS`
   - `Graphql`
