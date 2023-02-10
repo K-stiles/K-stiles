@@ -6,13 +6,19 @@ I’m Kwaku, a full-stack engineer who is a creative developer and self-proclaim
 Want to know more about me? [Check out my portfolio.](https://github.com/)
 
 ## Skills and Experience
-* Figma
-* Adobe XD
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
-* Node JS
-* Graphql
+* UI/UX Designing
+  > Figma
+  > Adobe XD
+* Web Development
+  > 💻 HTML, CSS, JS
+  > ⚛ React
+  > Flutter
+* Mobile Development
+  > 📱 React Native
+  > Flutter
+* Backend Development
+  > Node JS
+  > Graphql
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
