@@ -19,6 +19,10 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
 * Backend API Development
   - `Node JS`
   - `Graphql`
+* Databases
+  - `MySQL`
+  - `MongoDB`
+
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
