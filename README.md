@@ -7,8 +7,8 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
 
 ## Skills and Experience
 * UI/UX Designing
-  1. `Figma`
-  2. `Adobe XD`
+  - `Figma`
+  - `Adobe XD`
 * Web Development
   > 💻 HTML, CSS, JS
   > ⚛ React
