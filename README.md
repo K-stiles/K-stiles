@@ -10,17 +10,17 @@ Want to know more about me? [Check out my portfolio.](https://github.com/)
   - `Figma`
   - `Adobe XD`
 * Web Development
-  > 💻 HTML, CSS, JS
-  > ⚛ React
-  > Flutter
+  - `💻 HTML, CSS, JS`
+  - `⚛ React`
+  - `Flutter`
 * Mobile Development
-  > 📱 React Native
-  > Flutter
+  - `📱 React Native`
+  - `Flutter`
 * Backend Development
-  > Node JS
-  > Graphql
+  - `Node JS`
+  - `Graphql`
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
 
-- 📫 How to reach me at: michealessuman08@gmail.com
+- 📫 Reach me out on my email: *michealessuman08@gmail.com
