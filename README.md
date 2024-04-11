@@ -8,8 +8,7 @@
 I'm a software developer based in Ghana, passionate about crafting exceptional web experiences. My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
 
 <!-- GIF -->
-<!-- <img align="right" alt="not Coding" width="300" src="https://i.gifer.com/1fZB.gif">  -->
-<img align="right" alt="Coding" width="300" src="https://github.com/K-stiles/mule-server/assets/80682692/9e9227c9-980f-4b56-9542-b600f4d46e7e">
+<!-- <img align="right" alt="Coding" width="300" src="https://github.com/K-stiles/mule-server/assets/80682692/9e9227c9-980f-4b56-9542-b600f4d46e7e"> -->
 <!-- GIF -->
 
 
