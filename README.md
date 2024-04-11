@@ -7,8 +7,11 @@
 <p align="left">
 I'm a software developer based in Ghana, passionate about crafting exceptional web experiences. My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
 
-<img align="right" alt="Coding" width="300" src="https://i.gifer.com/1fZB.gif">
-<!-- <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEumY3pt09HLkbu8p9aC7-PLb-qkRJmzkFw&s"> -->
+<!-- GIF -->
+<!-- <img align="right" alt="not Coding" width="300" src="https://i.gifer.com/1fZB.gif">  -->
+<img align="right" alt="Coding" width="300" src="https://github.com/K-stiles/mule-server/assets/80682692/9e9227c9-980f-4b56-9542-b600f4d46e7e">
+<!-- GIF -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-stiles&label=Profile%20views&color=0e75b6&style=flat" alt="k-stiles" /> </p>
 
