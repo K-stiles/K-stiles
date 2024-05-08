@@ -5,20 +5,20 @@
 
 <h1 align="left">Kwaku Stiles</h1>
 <p align="left">
-I'm a software developer based in Ghana, passionate about crafting exceptional web experiences. My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
+I'm a software developer, based in Ghana, passionate about crafting exceptional web experiences. My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
 
 <!-- GIF -->
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/K-stiles/mule-server/assets/80682692/9e9227c9-980f-4b56-9542-b600f4d46e7e"> -->
 <!-- GIF -->
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-stiles&label=Profile%20views&color=0e75b6&style=flat" alt="k-stiles" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-stiles&label=Profile%20views&color=0e75b6&style=flat" alt="k-stiles" /> </p>  -->
 
-- 🔭 I’m currently working on **iLoc**
+<!-- - 🔭 I’m currently working on **iLoc**  -->
 
-- 🌱 I’m currently learning **Microservices with GoLang**
+<!-- - 🌱 I’m currently learning **Microservices with GoLang**  -->
 
-- 💬 Ask me about **NextJs, GraphQL, ExpressJs**
+- 💬 Ask me about **NextJs, GraphQL, ExpressJs, GoLang**
 
 - 📫 How to reach me **michealessuman08@gmail.com**
 
