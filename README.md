@@ -21,9 +21,13 @@ I'm a software developer, passionate about crafting exceptional web and mobile e
 
 <!--  - 💬 Ask me about **NextJs, GraphQL, ExpressJs, GoLang**   -->
 
+
 - 💡 I have an entrepreneurial spirit and love learning new technologies
   
 - 📫 How to reach me **michealessuman08@gmail.com**
+  
+- 🏋🏽‍♂️ Check out my [Portfolio](https://essuman-portfolio.vercel.app/) showcasing my projects and skills
+
 
 - ⚡ Fun fact **I simply a Marvel stan**
 
