@@ -5,12 +5,16 @@
 
 <h1 align="left">Micheal Essuman</h1>
 <h4 align="left">
-I'm a software developer, passionate about crafting exceptional web and mobile experiences, and I enjoy spending countless hours coding.</h4>
+  👨🏽‍💻 I’m a software engineer driven by a passion for creating intelligent software experiences powered by artificial intelligence.
+</h4>
 <!-- My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
 
 <!-- GIF -->
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/K-stiles/mule-server/assets/80682692/9e9227c9-980f-4b56-9542-b600f4d46e7e"> -->
 <!-- GIF -->
+
+<br>
+<p> I specialize in and regularly work with JavaScript, TypeScript, Python, Node.js, Next.js, React, and FastAPI, leveraging them daily while remaining open to exploring new tools and frameworks. </p>
 
 <br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-stiles&label=Profile%20views&color=0e75b6&style=flat" alt="k-stiles" /> </p>  -->
@@ -19,10 +23,11 @@ I'm a software developer, passionate about crafting exceptional web and mobile e
 
 <!-- - 🌱 I’m currently learning **Microservices with GoLang**  -->
 
+<!-- - 💡 I have an entrepreneurial spirit and love learning new technologies  -->
+
 <!--  - 💬 Ask me about **NextJs, GraphQL, ExpressJs, GoLang**   -->
-
-
-- 💡 I have an entrepreneurial spirit and love learning new technologies
+<p> 🎓 Proud Information Technology alumnus of the University of Ghana.</p>
+<br/>
   
 - 📫 How to reach me **michealessuman08@gmail.com**
   
