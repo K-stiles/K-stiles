@@ -1,9 +1,9 @@
-<img width="2726" alt="github_banner" src="https://github.com/K-stiles/mule-server/assets/80682692/2af9b7e6-a9eb-41ca-9bd6-cc75bc5bd958">
+<!-- <img width="2726" alt="github_banner" src="https://github.com/K-stiles/mule-server/assets/80682692/2af9b7e6-a9eb-41ca-9bd6-cc75bc5bd958"> -->
 
 <br>
 <br>
 
-<h1 align="left">Kwaku Stiles</h1>
+<h1 align="left">Micheal Essuman</h1>
 <h4 align="left">
 I'm a software developer, passionate about crafting exceptional web and mobile experiences, and I enjoy spending countless hours coding.</h4>
 <!-- My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
