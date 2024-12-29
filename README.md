@@ -5,8 +5,13 @@
 
 <h1 align="left">Micheal Essuman</h1>
 <h4 align="left">
-  👨🏽‍💻 I’m a software engineer driven by a passion for creating intelligent software experiences powered by artificial intelligence.
+  👨🏽‍💻 I’m a software engineer passionate about creating intelligent software experiences powered by artificial intelligence.
 </h4>
+<!--  
+<h4 align="left">
+  👨🏽‍💻 I’m a software engineer driven by a passion for creating intelligent software experiences powered by artificial intelligence.
+</h4> 
+-->
 <!-- My toolkit includes Next.js, Express.js, and Apollo GraphQL, which I wield with expertise and enthusiasm.</p>
 
 <!-- GIF -->
