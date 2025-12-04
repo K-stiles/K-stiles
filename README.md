@@ -52,8 +52,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/micheal-essuman-38146a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micheal-essuman-38146a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://youtube.com/@kwakustiles4517?si=X8sHYY7089Lug5-W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@kwakustiles4517?si=X8sHYY7089Lug5-W" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/micheal-essuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micheal-essuman-38146a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kwakustiles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@kwakustiles4517?si=X8sHYY7089Lug5-W" height="30" width="40" /></a>
 </p>
 <br>
 
