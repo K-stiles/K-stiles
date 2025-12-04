@@ -40,14 +40,14 @@
 
 <!--  - 💬 Ask me about **NextJs, GraphQL, ExpressJs, GoLang**   -->
 <p> 🎓 Proud Information Technology alumnus of the University of Ghana.</p>
-<br/>
+<!-- <br/> -->
   
 - 📫 How to reach me **michealessuman08@gmail.com**
   
 - 🏋🏽‍♂️ Check out my [Portfolio](https://essuman-portfolio.vercel.app)  showcasing my projects and skills
 
-
 - ⚡ Fun fact **I simply a Marvel stan**
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
