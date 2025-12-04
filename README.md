@@ -21,6 +21,14 @@
 <br>
 <p> I specialize in and regularly work with JavaScript, TypeScript, Python, Node.js, Next.js, React, and FastAPI, leveraging them daily while remaining open to exploring new tools and frameworks. </p>
 
+[![My Skills](https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,vitest,webpack,babel,docker,githubactions,aws,kubernetes,workers,kafka,rabbitmq,nginx,grafana,prometheus,gcp,jest&perline=10)](https://skillicons.dev)
+
+![Static Badge](https://img.shields.io/badge/currently-online-green?logo=openbadges)
+![Static Badge](https://img.shields.io/badge/coding-smart-blue?logo=editorconfig)
+![Static Badge](https://img.shields.io/badge/watching-welcom_to_derry-red?logo=netflix)
+![Static Badge](https://img.shields.io/badge/listening_to-Kwasi_Authur-deepgreen?logo=spotify)
+
+
 <br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-stiles&label=Profile%20views&color=0e75b6&style=flat" alt="k-stiles" /> </p>  -->
 
